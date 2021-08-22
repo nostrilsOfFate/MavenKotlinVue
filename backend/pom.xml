@@ -8,14 +8,13 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<groupId>com.lena-kotlin-vue-practice</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backend</name>
 	<description>Demo project for Kotlin, Spring Boot, Vue.js a</description>
 	<properties>
 		<java.version>11</java.version>
-		<kotlin.version>1.5.21</kotlin.version>
+		<kotlin.version>1.3.21</kotlin.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<rest-assured.version>3.3.0</rest-assured.version>
