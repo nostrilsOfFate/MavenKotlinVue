@@ -9,5 +9,3 @@ class BackendApplication
 fun main(args: Array<String>) {
 	runApplication<BackendApplication>(*args)
 }
-
-data class Greeting(val id: Long, val content: String)
